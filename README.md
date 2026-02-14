@@ -1,10 +1,6 @@
 # Green-Transition-Labour-Markets-and-Health-Inequality-Evidence-from-an-ARDL-Framework-2000-2024-
 Green Transition, Labour Markets and Health Inequality: Evidence from an ARDL Framework (2000–2024)
-Perfect 👌 Since you used EViews, we’ll position this as a rigorous applied econometrics project, not a Python replication. That actually strengthens it academically — especially for MSc Health Research and UK public sector analytical roles.
-Below is a fully professional GitHub README draft tailored to your project.
-You can copy this directly into your README.md.
-________________________________________
-🌱 Green Transition and Social Inequality: An ARDL Analysis (2000–2024)
+
 📌 Project Overview
 This project investigates the long-run relationship between renewable energy transition and social inequality using an Autoregressive Distributed Lag (ARDL) modelling framework.
 Using annual time-series data from 2000 to 2024, the study evaluates whether expansion in renewable energy contributes to improvements in social inequality outcomes, while accounting for economic growth, unemployment, and air pollution.
@@ -38,7 +34,7 @@ Assessed short-run adjustments toward equilibrium.
 Evaluated short-run directional relationships.
 All estimations were conducted using EViews (2026 version).
 ________________________________________
-🔍 Key Empirical Findings
+Key Empirical Findings
 ✅ Cointegration Confirmed
 The error correction term is negative and statistically significant:
 CointEq(-1) = -1.257 (p = 0.012)
@@ -47,7 +43,7 @@ This indicates:
 •	Approximately 126% adjustment within one year
 •	Temporary overshooting but rapid system stabilisation
 ________________________________________
-🌿 Renewable Energy Transition
+Renewable Energy Transition
 •	Positive long-run coefficient (0.11)
 •	Statistically insignificant
 Interpretation:
@@ -64,7 +60,7 @@ ________________________________________
 Interpretation:
 Higher unemployment structurally worsens inequality outcomes. Labour market instability is a key driver of social disparities.
 ________________________________________
-🌫 PM2.5 (Air Pollution)
+PM2.5 (Air Pollution)
 •	Negative but statistically insignificant
 Interpretation:
 Pollution effects may operate through short-run health shocks rather than persistent structural inequality.
@@ -105,7 +101,7 @@ green-transition-inequality-ardl/
 │
 └── README.md
 ________________________________________
-🧠 Skills Demonstrated
+Skills Demonstrated
 •	Time-Series Econometrics
 •	ARDL Modelling
 •	Cointegration Analysis
@@ -115,7 +111,7 @@ ________________________________________
 •	Applied Health & Inequality Economics
 •	EViews Econometric Software
 ________________________________________
-📌 Contribution
+Contribution
 This project contributes to the growing debate on whether environmental sustainability policies automatically generate inclusive social outcomes.
 The results suggest that without labour market and redistributive policies, the green transition may not significantly reduce inequality.
 ________________________________________
