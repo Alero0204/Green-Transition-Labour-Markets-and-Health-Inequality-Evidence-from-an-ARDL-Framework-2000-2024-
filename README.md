@@ -1,9 +1,10 @@
 # Green-Transition-Labour-Markets-and-Health-Inequality-Evidence-from-an-ARDL-Framework-2000-2024-
 Green Transition, Labour Markets and Health Inequality: Evidence from an ARDL Framework (2000–2024)
 
+
 Project Overview
-This project investigates the long-run relationship between renewable energy transition and social inequality using an Autoregressive Distributed Lag (ARDL) modelling framework.
-Using annual time-series data from 2000 to 2024, the study evaluates whether expansion in renewable energy contributes to improvements in social inequality outcomes, while accounting for economic growth, unemployment, and air pollution.
+This project investigates the long-run relationship between renewable energy transition and social inequality using an Autoregressive Distributed Lag (ARDL) modelling framework. Using annual time-series data from 2000 to 2024, the study evaluates whether expansion in renewable energy contributes to improvements in social inequality outcomes, while accounting for economic growth, unemployment, and air pollution.
+
 The analysis was conducted using EViews econometric software, applying bounds testing and error-correction modelling techniques.
 Research Questions
 1.	To what extent does green economic transition Granger-cause health outcomes in the UK over the period 2000-2025?
@@ -14,7 +15,10 @@ LNREN_SHARES	Log of Renewable Energy Share
 LNGDP_PER_CAPITA	Log of GDP per Capita
 UNEMP	Unemployment Rate
 PM25	Fine particulate air pollution exposure
+
 All variables were transformed where appropriate to ensure econometric consistency.
+
+
 Methodology
 The study follows a structured time-series econometric approach:
 1️⃣ Stationarity Testing
@@ -28,6 +32,7 @@ Estimated long-run elasticities between renewable transition and inequality.
 4️⃣ Error Correction Model (ECM)
 Assessed short-run adjustments toward equilibrium.
 5️⃣ Pairwise Granger Causality Tests
+
 Evaluated short-run directional relationships.
 All estimations were conducted using EViews (2026 version).
 
@@ -35,15 +40,18 @@ Key Empirical Findings
 ✅ Cointegration Confirmed
 The error correction term is negative and statistically significant:
 CointEq(-1) = -1.257 (p = 0.012)
+
 This indicates:
 •	A stable long-run equilibrium relationship
 •	Approximately 126% adjustment within one year
 •	Temporary overshooting but rapid system stabilisation
+
 Renewable Energy Transition
 •	Positive long-run coefficient (0.11)
 •	Statistically insignificant
 Interpretation:
 Renewable energy expansion alone does not automatically reduce inequality within the sample period.
+
 📈 Economic development (GDP per Capita)
 •	Negative and economically meaningful coefficient
 •	Moderately strong statistical evidence
@@ -75,7 +83,7 @@ For the green transition to be socially inclusive, it must be accompanied by:
 •	Skills retraining programmes
 •	Social protection mechanisms
 •	Inclusive economic planning
-________________________________________
+
 📁 Repository Structure
 green-transition-inequality-ardl/
 │
