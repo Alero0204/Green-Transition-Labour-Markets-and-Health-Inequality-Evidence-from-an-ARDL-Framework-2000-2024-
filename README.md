@@ -7,11 +7,11 @@ Using annual time-series data from 2000 to 2024, the study evaluates whether exp
 The analysis was conducted using EViews econometric software, applying bounds testing and error-correction modelling techniques.
 ________________________________________
 🎯 Research Question
-Does renewable energy expansion reduce social inequality in the long run, or are labour market and economic growth factors more structurally important?
+Does green economic transition have a long run relationship with health inequality
 ________________________________________
 📊 Variables Used
 Variable	Description
-LNSII	Log of Social Inequality Index (dependent variable)
+LNSII	Log of health Inequality Index (dependent variable)
 LNREN_SHARES	Log of Renewable Energy Share
 LNGDP_PER_CAPITA	Log of GDP per Capita
 UNEMP	Unemployment Rate
